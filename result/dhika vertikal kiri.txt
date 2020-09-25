@@ -1,0 +1,146 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: dhika vertikal
+position: kiri
+dhika vertikal
+kiri
+start time : 2020-02-18 10:53:15.952672
+start time : 2020-02-18 10:53:17.155812
+Result: Agi - FALSE
+37.27
+end :2020-02-18 10:53:17.265242
+start time : 2020-02-18 10:53:17.515210
+Result: Agi - FALSE
+45.46
+end :2020-02-18 10:53:17.562082
+start time : 2020-02-18 10:53:17.812089
+Result: Futuhul - FALSE
+41.97
+end :2020-02-18 10:53:17.874625
+start time : 2020-02-18 10:53:18.108968
+Result: Agi - FALSE
+39.49
+end :2020-02-18 10:53:18.171453
+start time : 2020-02-18 10:53:18.405829
+Result: Agi - FALSE
+44.54
+end :2020-02-18 10:53:18.468350
+start time : 2020-02-18 10:53:18.671458
+Result: Agi - FALSE
+46.19
+end :2020-02-18 10:53:18.780850
+start time : 2020-02-18 10:53:18.999590
+Result: Futuhul - FALSE
+40.69
+end :2020-02-18 10:53:19.077750
+start time : 2020-02-18 10:53:19.312111
+Result: Agi - FALSE
+39.32
+end :2020-02-18 10:53:19.374632
+start time : 2020-02-18 10:53:19.624614
+Result: Agi - FALSE
+42.15
+end :2020-02-18 10:53:19.687149
+start time : 2020-02-18 10:53:19.937101
+Result: Futuhul - FALSE
+41.49
+end :2020-02-18 10:53:19.999605
+start time : 2020-02-18 10:53:20.202730
+Result: Futuhul - FALSE
+33.53
+end :2020-02-18 10:53:20.327786
+start time : 2020-02-18 10:53:20.562113
+Result: Futuhul - FALSE
+31.51
+end :2020-02-18 10:53:20.624626
+start time : 2020-02-18 10:53:20.874616
+Result: Agi - FALSE
+37.87
+end :2020-02-18 10:53:20.937171
+start time : 2020-02-18 10:53:21.171498
+Result: Agi - FALSE
+45.59
+end :2020-02-18 10:53:21.249675
+start time : 2020-02-18 10:53:21.483998
+Result: Agi - FALSE
+40.66
+end :2020-02-18 10:53:21.562178
+start time : 2020-02-18 10:53:21.796504
+Result: Agi - FALSE
+37.98
+end :2020-02-18 10:53:21.859019
+start time : 2020-02-18 10:53:22.093385
+Result: Futuhul - FALSE
+37.9
+end :2020-02-18 10:53:22.155899
+start time : 2020-02-18 10:53:22.390262
+Result: Agi - FALSE
+41.4
+end :2020-02-18 10:53:22.468411
+start time : 2020-02-18 10:53:22.702768
+Result: Futuhul - FALSE
+38.15
+end :2020-02-18 10:53:22.765306
+start time : 2020-02-18 10:53:23.015272
+Result: Agi - FALSE
+45.57
+end :2020-02-18 10:53:23.077788
+start time : 2020-02-18 10:53:23.312152
+Result: Agi - FALSE
+46.58
+end :2020-02-18 10:53:23.390330
+start time : 2020-02-18 10:53:23.609048
+Result: Futuhul - FALSE
+42.98
+end :2020-02-18 10:53:23.687195
+start time : 2020-02-18 10:53:23.905926
+Result: Agi - FALSE
+47.86
+end :2020-02-18 10:53:23.999697
+start time : 2020-02-18 10:53:24.234038
+Result: Agi - FALSE
+38.58
+end :2020-02-18 10:53:24.296594
+start time : 2020-02-18 10:53:24.515292
+Result: Agi - FALSE
+47.58
+end :2020-02-18 10:53:24.609098
+start time : 2020-02-18 10:53:24.827796
+Result: Agi - FALSE
+41.55
+end :2020-02-18 10:53:24.905977
+start time : 2020-02-18 10:53:25.124677
+Result: Futuhul - FALSE
+39.03
+end :2020-02-18 10:53:25.202856
+start time : 2020-02-18 10:53:25.437183
+Result: Futuhul - FALSE
+38.84
+end :2020-02-18 10:53:25.515322
+start time : 2020-02-18 10:53:25.734062
+Result: Agi - FALSE
+39.94
+end :2020-02-18 10:53:25.827846
+start time : 2020-02-18 10:53:26.062190
+Result: Agi - FALSE
+44.22
+end :2020-02-18 10:53:26.124745
+start time : 2020-02-18 10:53:26.359071
+Result: Agi - FALSE
+41.37
+end :2020-02-18 10:53:26.421589
+start time : 2020-02-18 10:53:26.655952
+Result: Agi - FALSE
+47.53
+end :2020-02-18 10:53:26.734130
+start time : 2020-02-18 10:53:26.968471
+Result: Agi - FALSE
+46.98
+end :2020-02-18 10:53:27.030956
+start time : 2020-02-18 10:53:27.234085
+Result: Futuhul - FALSE
+37.82
+end :2020-02-18 10:53:27.327841
+>>> 

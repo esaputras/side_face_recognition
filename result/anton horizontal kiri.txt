@@ -1,0 +1,146 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: anton horizontal
+position: kiri
+anton horizontal
+kiri
+start time : 2020-02-18 11:12:36.030237
+start time : 2020-02-18 11:12:37.233324
+Result: Agi - True
+41.19
+end :2020-02-18 11:12:37.358379
+start time : 2020-02-18 11:12:37.608328
+Result: Agi - True
+40.08
+end :2020-02-18 11:12:37.655258
+start time : 2020-02-18 11:12:37.889581
+Result: Agi - True
+38.58
+end :2020-02-18 11:12:37.952137
+start time : 2020-02-18 11:12:38.186479
+Result: Agi - True
+40.77
+end :2020-02-18 11:12:38.249015
+start time : 2020-02-18 11:12:38.483340
+Result: Agi - True
+40.64
+end :2020-02-18 11:12:38.545892
+start time : 2020-02-18 11:12:38.748969
+Result: Agi - True
+43.25
+end :2020-02-18 11:12:38.842774
+start time : 2020-02-18 11:12:39.061476
+Result: Futuhul - True
+39.7
+end :2020-02-18 11:12:39.139614
+start time : 2020-02-18 11:12:39.358355
+Result: Agi - True
+48.37
+end :2020-02-18 11:12:39.436533
+start time : 2020-02-18 11:12:39.655234
+Result: Agi - True
+43.91
+end :2020-02-18 11:12:39.733413
+start time : 2020-02-18 11:12:39.967736
+Result: Agi - True
+42.64
+end :2020-02-18 11:12:40.045918
+start time : 2020-02-18 11:12:40.264618
+Result: Agi - True
+49.49
+end :2020-02-18 11:12:40.358422
+start time : 2020-02-18 11:12:40.577123
+Result: Agi - True
+49.25
+end :2020-02-18 11:12:40.670925
+start time : 2020-02-18 11:12:40.905250
+Result: Agi - True
+48.46
+end :2020-02-18 11:12:40.967805
+start time : 2020-02-18 11:12:41.186504
+Result: Agi - True
+43.99
+end :2020-02-18 11:12:41.264646
+start time : 2020-02-18 11:12:41.483384
+Result: Agi - True
+47.93
+end :2020-02-18 11:12:41.561526
+start time : 2020-02-18 11:12:41.780263
+Result: Agi - True
+47.13
+end :2020-02-18 11:12:41.874014
+start time : 2020-02-18 11:12:42.092767
+Result: Agi - True
+49.44
+end :2020-02-18 11:12:42.186572
+start time : 2020-02-18 11:12:42.405271
+Result: Agi - True
+47.91
+end :2020-02-18 11:12:42.483399
+start time : 2020-02-18 11:12:42.702151
+Result: Agi - True
+39.84
+end :2020-02-18 11:12:42.780331
+start time : 2020-02-18 11:12:42.999030
+Result: Agi - True
+42.8
+end :2020-02-18 11:12:43.092798
+start time : 2020-02-18 11:12:43.342785
+Result: Agi - True
+40.86
+end :2020-02-18 11:12:43.405301
+start time : 2020-02-18 11:12:43.655292
+Result: Agi - True
+40.61
+end :2020-02-18 11:12:43.717807
+start time : 2020-02-18 11:12:43.936547
+Result: Agi - True
+37.69
+end :2020-02-18 11:12:44.014726
+start time : 2020-02-18 11:12:44.264676
+Result: Agi - True
+36.48
+end :2020-02-18 11:12:44.327213
+start time : 2020-02-18 11:12:44.577178
+Result: Agi - True
+36.74
+end :2020-02-18 11:12:44.639733
+start time : 2020-02-18 11:12:44.858431
+Result: Agi - True
+35.94
+end :2020-02-18 11:12:44.936613
+start time : 2020-02-18 11:12:45.170938
+Result: Agi - True
+35.48
+end :2020-02-18 11:12:45.233443
+start time : 2020-02-18 11:12:45.467816
+Result: Agi - True
+36.05
+end :2020-02-18 11:12:45.530357
+start time : 2020-02-18 11:12:45.749070
+Result: Agi - True
+35.93
+end :2020-02-18 11:12:45.842823
+start time : 2020-02-18 11:12:46.092827
+Result: Agi - True
+33.52
+end :2020-02-18 11:12:46.155363
+start time : 2020-02-18 11:12:46.389722
+Result: Agi - True
+35.71
+end :2020-02-18 11:12:46.452245
+start time : 2020-02-18 11:12:46.702212
+Result: Agi - True
+36.7
+end :2020-02-18 11:12:46.764764
+start time : 2020-02-18 11:12:47.014732
+Result: Agi - True
+35.28
+end :2020-02-18 11:12:47.077231
+start time : 2020-02-18 11:12:47.295968
+Result: Agi - True
+33.42
+end :2020-02-18 11:12:47.374149
+>>> 

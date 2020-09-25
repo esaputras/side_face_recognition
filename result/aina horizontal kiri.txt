@@ -1,0 +1,149 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: aina horizontal
+position: kiri
+aina horizontal
+kiri
+start time : 2020-02-18 10:59:35.048105
+start time : 2020-02-18 10:59:36.235618
+Result: Aina - TRUE
+44.63
+end :2020-02-18 10:59:36.376280
+start time : 2020-02-18 10:59:36.610642
+Result: Aina - TRUE
+42.89
+end :2020-02-18 10:59:36.673166
+start time : 2020-02-18 10:59:36.891881
+Result: Aina - TRUE
+40.74
+end :2020-02-18 10:59:36.985687
+start time : 2020-02-18 10:59:37.220026
+Result: Aina - TRUE
+35.91
+end :2020-02-18 10:59:37.282548
+start time : 2020-02-18 10:59:37.501264
+Result: Aina - TRUE
+41.12
+end :2020-02-18 10:59:37.579423
+start time : 2020-02-18 10:59:37.782518
+Result: Aina - TRUE
+37.14
+end :2020-02-18 10:59:37.891950
+start time : 2020-02-18 10:59:38.110645
+Result: Aina - TRUE
+38.74
+end :2020-02-18 10:59:38.188774
+start time : 2020-02-18 10:59:38.407525
+Result: Aina - TRUE
+29.8
+end :2020-02-18 10:59:38.485691
+start time : 2020-02-18 10:59:38.688782
+Result: Aina - TRUE
+19.54
+end :2020-02-18 10:59:38.813796
+start time : 2020-02-18 10:59:39.032535
+Result: Aina - TRUE
+18.64
+end :2020-02-18 10:59:39.110715
+start time : 2020-02-18 10:59:39.329415
+Result: Aina - TRUE
+17.99
+end :2020-02-18 10:59:39.407595
+start time : 2020-02-18 10:59:39.626310
+Result: Aina - TRUE
+20.25
+end :2020-02-18 10:59:39.704473
+
+start time : 2020-02-18 10:59:39.938798
+end :2020-02-18 10:59:39.954438
+start time : 2020-02-18 10:59:40.188801
+end :2020-02-18 10:59:40.204428
+start time : 2020-02-18 10:59:40.423178
+end :2020-02-18 10:59:40.454445
+
+start time : 2020-02-18 10:59:40.688808
+Result: Aina - TRUE
+14.88
+end :2020-02-18 10:59:40.751311
+
+start time : 2020-02-18 10:59:40.985688
+Result: Agi - FALSE
+11.93
+end :2020-02-18 10:59:41.048204
+
+start time : 2020-02-18 10:59:41.266943
+end :2020-02-18 10:59:41.298208
+
+start time : 2020-02-18 10:59:41.516947
+Result: Aina - TRUE
+10.96
+end :2020-02-18 10:59:41.595075
+start time : 2020-02-18 10:59:41.813842
+Result: Aina - TRUE
+11.16
+end :2020-02-18 10:59:41.891990
+start time : 2020-02-18 10:59:42.095096
+Result: Aina - TRUE
+11.51
+end :2020-02-18 10:59:42.188883
+start time : 2020-02-18 10:59:42.407583
+Result: Aina - TRUE
+25.83
+end :2020-02-18 10:59:42.485765
+
+start time : 2020-02-18 10:59:42.688837
+Result: Agi - FALSE
+17.05
+end :2020-02-18 10:59:42.798227
+
+start time : 2020-02-18 10:59:43.032594
+Result: Aina - TRUE
+29.85
+end :2020-02-18 10:59:43.095108
+start time : 2020-02-18 10:59:43.313848
+Result: Aina - TRUE
+38.43
+end :2020-02-18 10:59:43.392026
+start time : 2020-02-18 10:59:43.610727
+Result: Aina - TRUE
+41.37
+end :2020-02-18 10:59:43.688905
+start time : 2020-02-18 10:59:43.907604
+Result: Aina - TRUE
+50.21
+end :2020-02-18 10:59:43.985786
+start time : 2020-02-18 10:59:44.204484
+Result: Aina - TRUE
+54.1
+end :2020-02-18 10:59:44.282663
+start time : 2020-02-18 10:59:44.501363
+Result: Aina - TRUE
+43.37
+end :2020-02-18 10:59:44.579504
+start time : 2020-02-18 10:59:44.813870
+Result: Aina - TRUE
+61.0
+end :2020-02-18 10:59:44.876422
+start time : 2020-02-18 10:59:45.095124
+Result: Aina - TRUE
+46.31
+end :2020-02-18 10:59:45.188927
+start time : 2020-02-18 10:59:45.423269
+Result: Aina - TRUE
+42.98
+end :2020-02-18 10:59:45.485792
+start time : 2020-02-18 10:59:45.704523
+Result: Aina - TRUE
+34.67
+end :2020-02-18 10:59:45.782685
+start time : 2020-02-18 10:59:46.001403
+Result: Aina - TRUE
+42.54
+end :2020-02-18 10:59:46.079547
+start time : 2020-02-18 10:59:46.313892
+Result: Aina - TRUE
+50.31
+end :2020-02-18 10:59:46.392070
+>>> 

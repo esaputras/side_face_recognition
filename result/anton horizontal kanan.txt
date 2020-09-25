@@ -1,0 +1,202 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: anton horizontal
+position: kanan
+anton horizontal
+kanan
+start time : 2020-02-18 11:13:29.796535
+start time : 2020-02-18 11:13:30.921541
+Result: Fathan - True
+15.26
+end :2020-02-18 11:13:30.999669
+start time : 2020-02-18 11:13:31.155917
+Result: Fathan - True
+12.99
+end :2020-02-18 11:13:31.218480
+start time : 2020-02-18 11:13:31.359045
+Result: Fathan - True
+11.18
+end :2020-02-18 11:13:31.421599
+start time : 2020-02-18 11:13:31.577797
+Result: Agi - True
+9.72
+end :2020-02-18 11:13:31.624687
+start time : 2020-02-18 11:13:31.780926
+Result: Fathan - True
+10.06
+end :2020-02-18 11:13:31.843466
+start time : 2020-02-18 11:13:31.984055
+Result: Agi - True
+11.15
+end :2020-02-18 11:13:32.046594
+start time : 2020-02-18 11:13:32.187182
+Result: Agi - True
+17.25
+end :2020-02-18 11:13:32.249698
+start time : 2020-02-18 11:13:32.390311
+Result: Agi - True
+17.38
+end :2020-02-18 11:13:32.452849
+start time : 2020-02-18 11:13:32.609062
+Result: Agi - True
+23.25
+end :2020-02-18 11:13:32.671602
+start time : 2020-02-18 11:13:32.812191
+Result: Agi - True
+35.73
+end :2020-02-18 11:13:32.874707
+start time : 2020-02-18 11:13:33.015318
+Result: Agi - True
+30.64
+end :2020-02-18 11:13:33.077836
+start time : 2020-02-18 11:13:33.218448
+Result: Agi - True
+30.57
+end :2020-02-18 11:13:33.280964
+start time : 2020-02-18 11:13:33.421576
+end :2020-02-18 11:13:33.421576
+start time : 2020-02-18 11:13:33.562202
+Result: Agi - True
+15.41
+end :2020-02-18 11:13:33.624724
+start time : 2020-02-18 11:13:33.765330
+Result: Agi - True
+15.55
+end :2020-02-18 11:13:33.827847
+start time : 2020-02-18 11:13:33.984082
+end :2020-02-18 11:13:33.984082
+start time : 2020-02-18 11:13:34.140335
+Result: Agi - True
+10.87
+end :2020-02-18 11:13:34.202851
+start time : 2020-02-18 11:13:34.343464
+Result: Agi - True
+16.93
+end :2020-02-18 11:13:34.405978
+start time : 2020-02-18 11:13:34.546591
+Result: Agi - True
+15.05
+end :2020-02-18 11:13:34.609107
+start time : 2020-02-18 11:13:34.749719
+Result: Agi - True
+19.23
+end :2020-02-18 11:13:34.812259
+start time : 2020-02-18 11:13:34.952847
+Result: Agi - True
+18.24
+end :2020-02-18 11:13:35.015355
+start time : 2020-02-18 11:13:35.171600
+Result: Agi - True
+22.41
+end :2020-02-18 11:13:35.234140
+start time : 2020-02-18 11:13:35.374729
+Result: Agi - True
+29.27
+end :2020-02-18 11:13:35.437245
+start time : 2020-02-18 11:13:35.577856
+Result: Agi - True
+44.63
+end :2020-02-18 11:13:35.640358
+start time : 2020-02-18 11:13:35.780984
+Result: Agi - True
+36.07
+end :2020-02-18 11:13:35.859112
+start time : 2020-02-18 11:13:36.015363
+Result: Agi - True
+22.17
+end :2020-02-18 11:13:36.077879
+start time : 2020-02-18 11:13:36.218490
+Result: Agi - True
+18.49
+end :2020-02-18 11:13:36.296632
+start time : 2020-02-18 11:13:36.437243
+Result: Agi - True
+14.81
+end :2020-02-18 11:13:36.499783
+start time : 2020-02-18 11:13:36.655998
+Result: Dhika - True
+12.2
+end :2020-02-18 11:13:36.718536
+start time : 2020-02-18 11:13:36.859124
+Result: Agi - True
+13.32
+end :2020-02-18 11:13:36.937265
+start time : 2020-02-18 11:13:37.077879
+Result: Agi - True
+9.83
+end :2020-02-18 11:13:37.140420
+start time : 2020-02-18 11:13:37.281005
+Result: Fathan - True
+13.9
+end :2020-02-18 11:13:37.343522
+start time : 2020-02-18 11:13:37.499758
+Result: Fathan - True
+15.6
+end :2020-02-18 11:13:37.562317
+start time : 2020-02-18 11:13:37.702887
+Result: Fathan - True
+18.41
+end :2020-02-18 11:13:37.765390
+start time : 2020-02-18 11:13:37.906015
+Result: Fathan - True
+12.87
+end :2020-02-18 11:13:37.984195
+start time : 2020-02-18 11:13:38.140393
+Result: Fathan - True
+14.94
+end :2020-02-18 11:13:38.202909
+start time : 2020-02-18 11:13:38.359147
+Result: Fathan - True
+18.29
+end :2020-02-18 11:13:38.421663
+start time : 2020-02-18 11:13:38.577899
+Result: Fathan - True
+15.18
+end :2020-02-18 11:13:38.640439
+start time : 2020-02-18 11:13:38.796653
+Result: Fathan - True
+13.46
+end :2020-02-18 11:13:38.859169
+start time : 2020-02-18 11:13:38.999780
+Result: Fathan - True
+15.77
+end :2020-02-18 11:13:39.062320
+start time : 2020-02-18 11:13:39.218533
+Result: Fathan - True
+12.77
+end :2020-02-18 11:13:39.281050
+start time : 2020-02-18 11:13:39.437287
+Result: Fathan - True
+13.76
+end :2020-02-18 11:13:39.499804
+start time : 2020-02-18 11:13:39.640416
+Result: Fathan - True
+13.77
+end :2020-02-18 11:13:39.718556
+start time : 2020-02-18 11:13:39.874794
+Result: Fathan - True
+13.53
+end :2020-02-18 11:13:39.937310
+start time : 2020-02-18 11:13:40.077922
+Result: Fathan - True
+13.37
+end :2020-02-18 11:13:40.156086
+start time : 2020-02-18 11:13:40.312300
+Result: Fathan - True
+9.17
+end :2020-02-18 11:13:40.374803
+start time : 2020-02-18 11:13:40.531053
+Result: Fathan - True
+13.43
+end :2020-02-18 11:13:40.593592
+start time : 2020-02-18 11:13:40.734180
+Result: Fathan - True
+14.8
+end :2020-02-18 11:13:40.812346
+start time : 2020-02-18 11:13:40.968559
+Result: Fathan - True
+11.71
+end :2020-02-18 11:13:41.031064
+>>> 

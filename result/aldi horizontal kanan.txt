@@ -1,0 +1,206 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: aldi horizontal
+position: kanan
+aldi horizontal
+kanan
+start time : 2020-02-18 10:45:51.499716
+start time : 2020-02-18 10:45:52.609104
+Result: Agi - FALSE
+21.83
+end :2020-02-18 10:45:52.671605
+start time : 2020-02-18 10:45:52.827860
+Result: Agi - FALSE
+17.13
+end :2020-02-18 10:45:52.890373
+start time : 2020-02-18 10:45:53.030985
+Result: Agi - FALSE
+20.13
+end :2020-02-18 10:45:53.093539
+start time : 2020-02-18 10:45:53.234115
+Result: Agi - FALSE
+17.32
+end :2020-02-18 10:45:53.280990
+start time : 2020-02-18 10:45:53.421618
+Result: Agi - FALSE
+16.33
+end :2020-02-18 10:45:53.484131
+start time : 2020-02-18 10:45:53.624747
+Result: Agi - FALSE
+16.51
+end :2020-02-18 10:45:53.687298
+start time : 2020-02-18 10:45:53.827871
+Result: Agi - FALSE
+11.13
+end :2020-02-18 10:45:53.890388
+start time : 2020-02-18 10:45:54.031002
+Result: Agi - FALSE
+12.32
+end :2020-02-18 10:45:54.093516
+start time : 2020-02-18 10:45:54.249755
+Result: Agi - FALSE
+7.57
+end :2020-02-18 10:45:54.312259
+start time : 2020-02-18 10:45:54.452883
+Result: Agi - FALSE
+5.65
+end :2020-02-18 10:45:54.515397
+start time : 2020-02-18 10:45:54.656009
+Result: Agi - FALSE
+5.13
+end :2020-02-18 10:45:54.718510
+start time : 2020-02-18 10:45:54.859139
+Result: Fathan - FALSE
+7.64
+end :2020-02-18 10:45:54.937278
+start time : 2020-02-18 10:45:55.077892
+Result: Agi - FALSE
+10.11
+end :2020-02-18 10:45:55.140430
+start time : 2020-02-18 10:45:55.296646
+Result: Agi - FALSE
+9.21
+end :2020-02-18 10:45:55.359144
+start time : 2020-02-18 10:45:55.499771
+Result: Agi - FALSE
+9.43
+end :2020-02-18 10:45:55.562288
+start time : 2020-02-18 10:45:55.702899
+Result: Agi - FALSE
+9.62
+end :2020-02-18 10:45:55.765416
+start time : 2020-02-18 10:45:55.906029
+Result: Agi - FALSE
+4.27
+end :2020-02-18 10:45:55.968543
+
+start time : 2020-02-18 10:45:56.109155
+end :2020-02-18 10:45:56.109155
+
+start time : 2020-02-18 10:45:56.265407
+Result: Agi - FALSE
+7.83
+end :2020-02-18 10:45:56.327948
+start time : 2020-02-18 10:45:56.468538
+Result: Agi - FALSE
+11.53
+end :2020-02-18 10:45:56.531051
+start time : 2020-02-18 10:45:56.687288
+Result: Agi - FALSE
+8.62
+end :2020-02-18 10:45:56.749791
+start time : 2020-02-18 10:45:56.890420
+Result: Fathan - FALSE
+10.25
+end :2020-02-18 10:45:56.952932
+start time : 2020-02-18 10:45:57.109171
+Result: Fathan - FALSE
+10.71
+end :2020-02-18 10:45:57.171687
+start time : 2020-02-18 10:45:57.327926
+Result: Agi - FALSE
+4.86
+end :2020-02-18 10:45:57.390461
+start time : 2020-02-18 10:45:57.546675
+Result: Agi - FALSE
+0.76
+end :2020-02-18 10:45:57.609199
+start time : 2020-02-18 10:45:57.765428
+Result: Agi - FALSE
+4.77
+end :2020-02-18 10:45:57.827932
+start time : 2020-02-18 10:45:57.984183
+Result: Agi - FALSE
+9.65
+end :2020-02-18 10:45:58.046704
+start time : 2020-02-18 10:45:58.202935
+Result: Agi - FALSE
+11.5
+end :2020-02-18 10:45:58.265490
+start time : 2020-02-18 10:45:58.406064
+Result: Agi - FALSE
+10.89
+end :2020-02-18 10:45:58.468602
+start time : 2020-02-18 10:45:58.624817
+Result: Agi - FALSE
+10.47
+end :2020-02-18 10:45:58.687318
+start time : 2020-02-18 10:45:58.827945
+Result: Agi - FALSE
+13.98
+end :2020-02-18 10:45:58.906086
+start time : 2020-02-18 10:45:59.046697
+Result: Agi - FALSE
+13.96
+end :2020-02-18 10:45:59.109213
+start time : 2020-02-18 10:45:59.265451
+Result: Agi - FALSE
+13.26
+end :2020-02-18 10:45:59.327955
+start time : 2020-02-18 10:45:59.484206
+Result: Agi - FALSE
+11.93
+end :2020-02-18 10:45:59.546743
+start time : 2020-02-18 10:45:59.687333
+Result: Agi - FALSE
+9.14
+end :2020-02-18 10:45:59.749848
+start time : 2020-02-18 10:45:59.906084
+Result: Agi - FALSE
+4.58
+end :2020-02-18 10:45:59.968624
+start time : 2020-02-18 10:46:00.140464
+Result: Agi - FALSE
+-0.05
+end :2020-02-18 10:46:00.202980
+start time : 2020-02-18 10:46:00.359216
+Result: Agi - FALSE
+5.66
+end :2020-02-18 10:46:00.406094
+start time : 2020-02-18 10:46:00.546719
+Result: Agi - FALSE
+4.47
+end :2020-02-18 10:46:00.609222
+start time : 2020-02-18 10:46:00.765471
+Result: Agi - FALSE
+9.86
+end :2020-02-18 10:46:00.828027
+start time : 2020-02-18 10:46:00.984225
+Result: Fathan - FALSE
+10.71
+end :2020-02-18 10:46:01.046742
+start time : 2020-02-18 10:46:01.202980
+Result: Agi - FALSE
+10.23
+end :2020-02-18 10:46:01.265534
+start time : 2020-02-18 10:46:01.406107
+Result: Agi - FALSE
+11.94
+end :2020-02-18 10:46:01.468646
+start time : 2020-02-18 10:46:01.624860
+Result: Agi - FALSE
+9.0
+end :2020-02-18 10:46:01.687364
+start time : 2020-02-18 10:46:01.827987
+Result: Agi - FALSE
+7.48
+end :2020-02-18 10:46:01.890491
+start time : 2020-02-18 10:46:02.031116
+Result: Agi - FALSE
+8.27
+end :2020-02-18 10:46:02.109258
+
+start time : 2020-02-18 10:46:02.249870
+end :2020-02-18 10:46:02.265495
+
+start time : 2020-02-18 10:46:02.406121
+Result: Agi - FALSE
+9.44
+end :2020-02-18 10:46:02.484263
+start time : 2020-02-18 10:46:02.624874
+Result: Agi - FALSE
+11.38
+end :2020-02-18 10:46:02.687379
+>>> 

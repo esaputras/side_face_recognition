@@ -1,0 +1,153 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: aldi horizontal
+position: kiri
+aldi horizontal
+kiri
+start time : 2020-02-18 10:44:51.077724
+start time : 2020-02-18 10:44:52.312080
+Result: Agi - FALSE
+43.23
+end :2020-02-18 10:44:52.374617
+start time : 2020-02-18 10:44:52.608943
+Result: Futuhul - FALSE
+38.81
+end :2020-02-18 10:44:52.671481
+
+start time : 2020-02-18 10:44:53.046465
+Result: Aldi - TRUE
+36.51
+end :2020-02-18 10:44:53.109002
+start time : 2020-02-18 10:44:53.327701
+Result: Aldi - TRUE
+39.59
+end :2020-02-18 10:44:53.405882
+start time : 2020-02-18 10:44:53.640206
+Result: Aldi - TRUE
+37.92
+end :2020-02-18 10:44:53.702761
+start time : 2020-02-18 10:44:53.937085
+Result: Aldi - TRUE
+41.41
+end :2020-02-18 10:44:53.999639
+start time : 2020-02-18 10:44:54.202715
+Result: Aldi - TRUE
+41.0
+end :2020-02-18 10:44:54.312129
+
+start time : 2020-02-18 10:44:54.530844
+Result: Futuhul - FALSE
+40.58
+end :2020-02-18 10:44:54.609024
+start time : 2020-02-18 10:44:54.843366
+Result: Futuhul - FALSE
+42.04
+end :2020-02-18 10:44:54.905850
+start time : 2020-02-18 10:44:55.124602
+Result: Futuhul - FALSE
+44.1
+end :2020-02-18 10:44:55.202784
+start time : 2020-02-18 10:44:55.421481
+Result: Futuhul - FALSE
+43.51
+end :2020-02-18 10:44:55.499624
+start time : 2020-02-18 10:44:55.718361
+Result: Futuhul - FALSE
+40.55
+end :2020-02-18 10:44:55.812116
+start time : 2020-02-18 10:44:56.062134
+Result: Fathan - FALSE
+40.18
+end :2020-02-18 10:44:56.124632
+start time : 2020-02-18 10:44:56.358996
+Result: Fathan - FALSE
+27.02
+end :2020-02-18 10:44:56.421512
+
+start time : 2020-02-18 10:44:56.640249
+end :2020-02-18 10:44:56.671515
+start time : 2020-02-18 10:44:56.921504
+end :2020-02-18 10:44:56.937144
+
+start time : 2020-02-18 10:44:57.171508
+Result: Fathan - FALSE
+20.01
+end :2020-02-18 10:44:57.234046
+
+start time : 2020-02-18 10:44:57.468387
+end :2020-02-18 10:44:57.484015
+
+start time : 2020-02-18 10:44:57.702766
+Result: Aldi - TRUE
+40.06
+end :2020-02-18 10:44:57.780929
+start time : 2020-02-18 10:44:57.999646
+Result: Aldi - TRUE
+36.57
+end :2020-02-18 10:44:58.077786
+
+start time : 2020-02-18 10:44:58.296526
+Result: Fathan - FALSE
+35.66
+end :2020-02-18 10:44:58.390328
+
+start time : 2020-02-18 10:44:58.624671
+Result: Aldi - TRUE
+42.44
+end :2020-02-18 10:44:58.687208
+start time : 2020-02-18 10:44:58.905908
+Result: Aldi - TRUE
+45.0
+end :2020-02-18 10:44:58.984069
+
+start time : 2020-02-18 10:44:59.218411
+Result: Agi - FALSE
+42.21
+end :2020-02-18 10:44:59.280966
+start time : 2020-02-18 10:44:59.499668
+Result: Agi - FALSE
+43.06
+end :2020-02-18 10:44:59.577811
+start time : 2020-02-18 10:44:59.796544
+Result: Agi - FALSE
+46.63
+end :2020-02-18 10:44:59.890351
+start time : 2020-02-18 10:45:00.124674
+Result: Futuhul - FALSE
+40.14
+end :2020-02-18 10:45:00.187230
+start time : 2020-02-18 10:45:00.405931
+Result: Agi - FALSE
+42.76
+end :2020-02-18 10:45:00.484109
+start time : 2020-02-18 10:45:00.702826
+Result: Agi - FALSE
+44.91
+end :2020-02-18 10:45:00.780973
+start time : 2020-02-18 10:45:01.015312
+Result: Agi - FALSE
+46.96
+end :2020-02-18 10:45:01.093492
+start time : 2020-02-18 10:45:01.312194
+Result: Agi - FALSE
+46.67
+end :2020-02-18 10:45:01.390353
+start time : 2020-02-18 10:45:01.609071
+Result: Futuhul - FALSE
+42.65
+end :2020-02-18 10:45:01.702877
+start time : 2020-02-18 10:45:01.937201
+Result: Futuhul - FALSE
+38.7
+end :2020-02-18 10:45:01.999716
+start time : 2020-02-18 10:45:02.234082
+Result: Futuhul - FALSE
+37.52
+end :2020-02-18 10:45:02.296587
+start time : 2020-02-18 10:45:02.515336
+Result: Fathan - FALSE
+36.37
+end :2020-02-18 10:45:02.593476
+>>> 

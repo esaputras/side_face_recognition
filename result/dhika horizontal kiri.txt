@@ -1,0 +1,142 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Yeeey\Desktop\Face\face_recognition.py ==========
+name: dhika horizontal
+position: kiri
+dhika horizontal
+kiri
+start time : 2020-02-18 10:49:20.014065
+start time : 2020-02-18 10:49:21.217151
+Result: Dhika - TRUE
+43.4
+end :2020-02-18 10:49:21.342157
+start time : 2020-02-18 10:49:21.576540
+Result: Agi - FALSE
+40.1
+end :2020-02-18 10:49:21.639089
+start time : 2020-02-18 10:49:21.857788
+Result: Dhika - TRUE
+43.44
+end :2020-02-18 10:49:21.935927
+start time : 2020-02-18 10:49:22.154668
+Result: Dhika - TRUE
+44.27
+end :2020-02-18 10:49:22.232845
+start time : 2020-02-18 10:49:22.482795
+Result: Dhika - TRUE
+44.79
+end :2020-02-18 10:49:22.529709
+start time : 2020-02-18 10:49:22.748425
+Result: Dhika - TRUE
+48.18
+end :2020-02-18 10:49:22.826604
+start time : 2020-02-18 10:49:23.060929
+Result: Agi - FALSE
+48.13
+end :2020-02-18 10:49:23.123433
+start time : 2020-02-18 10:49:23.357809
+Result: Agi - FALSE
+47.5
+end :2020-02-18 10:49:23.420348
+start time : 2020-02-18 10:49:23.654705
+Result: Agi - FALSE
+49.38
+end :2020-02-18 10:49:23.732852
+start time : 2020-02-18 10:49:23.951569
+Result: Agi - FALSE
+46.82
+end :2020-02-18 10:49:24.045372
+start time : 2020-02-18 10:49:24.279714
+Result: Agi - FALSE
+47.58
+end :2020-02-18 10:49:24.357877
+start time : 2020-02-18 10:49:24.576578
+Result: Agi - FALSE
+46.58
+end :2020-02-18 10:49:24.670381
+start time : 2020-02-18 10:49:24.904723
+Result: Agi - FALSE
+46.42
+end :2020-02-18 10:49:24.982886
+start time : 2020-02-18 10:49:25.201587
+Result: Agi - FALSE
+43.75
+end :2020-02-18 10:49:25.295351
+start time : 2020-02-18 10:49:25.529715
+Result: Agi - FALSE
+46.32
+end :2020-02-18 10:49:25.607894
+start time : 2020-02-18 10:49:25.826595
+Result: Dhika - TRUE
+45.84
+end :2020-02-18 10:49:25.920349
+start time : 2020-02-18 10:49:26.170349
+Result: Agi - FALSE
+44.6
+end :2020-02-18 10:49:26.232904
+start time : 2020-02-18 10:49:26.467248
+Result: Agi - FALSE
+43.15
+end :2020-02-18 10:49:26.545391
+start time : 2020-02-18 10:49:26.779735
+Result: Agi - FALSE
+42.99
+end :2020-02-18 10:49:26.857913
+start time : 2020-02-18 10:49:27.107866
+Result: Dhika - TRUE
+44.01
+end :2020-02-18 10:49:27.170395
+start time : 2020-02-18 10:49:27.404759
+Result: Dhika - TRUE
+43.71
+end :2020-02-18 10:49:27.482875
+start time : 2020-02-18 10:49:27.732889
+Result: Dhika - TRUE
+44.51
+end :2020-02-18 10:49:27.795410
+start time : 2020-02-18 10:49:28.045375
+Result: Agi - FALSE
+45.06
+end :2020-02-18 10:49:28.107879
+start time : 2020-02-18 10:49:28.342255
+Result: Agi - FALSE
+44.83
+end :2020-02-18 10:49:28.420435
+start time : 2020-02-18 10:49:28.654777
+Result: Agi - FALSE
+45.22
+end :2020-02-18 10:49:28.732925
+start time : 2020-02-18 10:49:28.982907
+Result: Dhika - TRUE
+45.57
+end :2020-02-18 10:49:29.045430
+start time : 2020-02-18 10:49:29.279768
+Result: Agi - FALSE
+44.71
+end :2020-02-18 10:49:29.357951
+start time : 2020-02-18 10:49:29.592276
+Result: Agi - FALSE
+48.18
+end :2020-02-18 10:49:29.670453
+start time : 2020-02-18 10:49:29.904796
+Result: Agi - FALSE
+45.08
+end :2020-02-18 10:49:29.982954
+start time : 2020-02-18 10:49:30.201657
+Result: Agi - FALSE
+44.8
+end :2020-02-18 10:49:30.295462
+start time : 2020-02-18 10:49:30.498538
+Result: Agi - FALSE
+44.5
+end :2020-02-18 10:49:30.607967
+start time : 2020-02-18 10:49:30.842293
+Result: Dhika - TRUE
+44.85
+end :2020-02-18 10:49:30.920418
+start time : 2020-02-18 10:49:31.154796
+Result: Dhika - TRUE
+44.15
+end :2020-02-18 10:49:31.232927
+>>> 
